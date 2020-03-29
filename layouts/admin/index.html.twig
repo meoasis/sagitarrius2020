@@ -6,6 +6,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title|default('Content Manager') }}</title>
   <link rel="stylesheet" href="https://unpkg.com/netlify-cms@{{ site.netlify.cms.version|default('latest') }}/dist/cms.css" />
+  <style>
+     .sidebar h1{
+      font-size: 1.8rem !important;
+    }
+  </style>
 </head>
 <body>
   <script src="https://unpkg.com/netlify-cms@{{ site.netlify.cms.version|default('latest') }}/dist/netlify-cms.js"></script>
