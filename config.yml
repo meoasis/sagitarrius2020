@@ -28,4 +28,4 @@ netlify:
     version: v1
 optimize:
   enabled: true
-baseurl: /
+baseurl: 'https://www.sagitarrius2020.gq/'
