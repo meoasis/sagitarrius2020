@@ -6,4 +6,4 @@ tags:
   - First Blog
 draft: false
 ---
-***Hello Everyone!***
+***Hello Everyone! What's up! I'm Romeo, This blog is my personal status. I share here my thoughts, my plans, DIYs , my projects and a lot more.***
